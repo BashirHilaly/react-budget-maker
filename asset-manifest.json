@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.a67f00f1.css",
-    "main.js": "/static/js/main.6f2a4d2b.js",
-    "static/js/787.b9c70467.chunk.js": "/static/js/787.b9c70467.chunk.js",
-    "index.html": "/index.html",
-    "main.a67f00f1.css.map": "/static/css/main.a67f00f1.css.map",
-    "main.6f2a4d2b.js.map": "/static/js/main.6f2a4d2b.js.map",
-    "787.b9c70467.chunk.js.map": "/static/js/787.b9c70467.chunk.js.map"
+    "main.css": "/react-budget-maker/static/css/main.a67f00f1.css",
+    "main.js": "/react-budget-maker/static/js/main.2e32ba58.js",
+    "static/js/787.b9c70467.chunk.js": "/react-budget-maker/static/js/787.b9c70467.chunk.js",
+    "index.html": "/react-budget-maker/index.html",
+    "main.a67f00f1.css.map": "/react-budget-maker/static/css/main.a67f00f1.css.map",
+    "main.2e32ba58.js.map": "/react-budget-maker/static/js/main.2e32ba58.js.map",
+    "787.b9c70467.chunk.js.map": "/react-budget-maker/static/js/787.b9c70467.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.a67f00f1.css",
-    "static/js/main.6f2a4d2b.js"
+    "static/js/main.2e32ba58.js"
   ]
 }
