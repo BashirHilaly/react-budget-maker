@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/react-budget-maker/static/css/main.ea29a8b7.css",
-    "main.js": "/react-budget-maker/static/js/main.ba46f32a.js",
+    "main.css": "/react-budget-maker/static/css/main.f2b65e89.css",
+    "main.js": "/react-budget-maker/static/js/main.6e83f8a7.js",
     "static/js/787.b9c70467.chunk.js": "/react-budget-maker/static/js/787.b9c70467.chunk.js",
     "index.html": "/react-budget-maker/index.html",
-    "main.ea29a8b7.css.map": "/react-budget-maker/static/css/main.ea29a8b7.css.map",
-    "main.ba46f32a.js.map": "/react-budget-maker/static/js/main.ba46f32a.js.map",
+    "main.f2b65e89.css.map": "/react-budget-maker/static/css/main.f2b65e89.css.map",
+    "main.6e83f8a7.js.map": "/react-budget-maker/static/js/main.6e83f8a7.js.map",
     "787.b9c70467.chunk.js.map": "/react-budget-maker/static/js/787.b9c70467.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.ea29a8b7.css",
-    "static/js/main.ba46f32a.js"
+    "static/css/main.f2b65e89.css",
+    "static/js/main.6e83f8a7.js"
   ]
 }
