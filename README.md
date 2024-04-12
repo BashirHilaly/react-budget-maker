@@ -1,3 +1,9 @@
+<h6 align="center">بسم الله الرحمن الرحيم
+<br>In the name of Allah, Most Gracious, Most Merciful
+</h6>
+
+---
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
